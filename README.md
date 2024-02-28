@@ -19,6 +19,18 @@ Source: https://www.kaggle.com/ronitf/heart-disease-uci
 
 # Evaluation
 
-We need to try atleast 85% accuracy of the model to pursue the project.
+Evaluating our tuned machine learning classifier beyond accuracy:
+
+ROC curve and AUC curve
+Confusion matrix
+Classification report
+Precision
+Recall
+F1-score
+
+
 ![صورة واتساب بتاريخ 1445-08-18 في 11 43 36_a24f684e](https://github.com/iwx09/iwx-09/assets/76057369/af764aa2-c1e3-46d7-a4b4-70df9593556d)
+
+![صورة واتساب بتاريخ 1445-08-18 في 11 43 59_63ef91dc](https://github.com/iwx09/iwx-09/assets/76057369/4151a801-f16e-466c-a5b6-5d0e23da6473)
+
 
