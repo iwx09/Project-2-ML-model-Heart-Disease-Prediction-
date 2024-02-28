@@ -17,7 +17,7 @@ This database contains 76 features, but all published experiments report using a
 
 Source: https://www.kaggle.com/ronitf/heart-disease-uci
 
-# Evaluation
+# Evaluation.
 
 Evaluating our tuned machine learning classifier beyond accuracy:
 
